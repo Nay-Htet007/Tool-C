@@ -1,6 +1,6 @@
-# Tool-C
 
->>Collection of useful tools<<
+
+# Collection of useful tools
 
 $pkg install git
 
