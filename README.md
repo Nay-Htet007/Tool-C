@@ -12,4 +12,5 @@ $bash tool.sh
 
 
 Username::Cyber Bullet
+
 Password::Tool-C
