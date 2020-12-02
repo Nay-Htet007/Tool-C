@@ -10,6 +10,6 @@ $cd Tool-C
 
 $bash tool.sh
 
-echo -e "\e[1;32m
+
 Username::Cyber Bullet
 Password::Tool-C
